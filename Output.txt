@@ -1,0 +1,52 @@
+------ TO-DO LIST APP ------
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Exit
+Enter your choice: 1
+Enter a new task:  Buy groceries
+Task added successfully!
+
+------ TO-DO LIST APP ------
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Exit
+Enter your choice: 1
+Enter a new task: study python
+Task added successfully!
+
+------ TO-DO LIST APP ------
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Exit
+Enter your choice: 2
+
+Your Tasks:
+1.  Buy groceries
+2. study python
+
+------ TO-DO LIST APP ------
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Exit
+Enter your choice: 3
+
+Your Tasks:
+1.  Buy groceries
+2. study python
+
+Enter task number to remove: 1
+Removed:  Buy groceries
+
+------ TO-DO LIST APP ------
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Exit
+Enter your choice: 4
+Exiting... Goodbye!
+
+Process finished with exit code 0
